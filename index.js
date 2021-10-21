@@ -8,3 +8,7 @@ const division = (a, b) => {
     }
     finally {return 0}
 };
+
+const promedio = suma /2;
+
+
