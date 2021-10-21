@@ -11,4 +11,4 @@ const division = (a, b) => {
 
 const promedio = suma /2;
 
-
+const multiplicacion = (a, b) => a*b;
